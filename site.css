@@ -1,0 +1,27 @@
+.container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(180deg, #FEDE01 0%, #FBB034 100%);
+}
+
+.caption {
+    font-size: 3em;
+    color: #333333;
+    font-weight: normal;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    padding: 0 10vw;
+}
+
+.title {
+    font-size: 10em;
+    font-weight: normal;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    padding: 0 10vw;
+}
